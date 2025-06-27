@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudDapperVideo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c6457b0b3b863b1663c041d84b5ccce5798312a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudDapperVideo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudDapperVideo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

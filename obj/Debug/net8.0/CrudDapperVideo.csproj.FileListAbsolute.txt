@@ -41,3 +41,4 @@ D:\Projetos\CrudDapperVideo\CrudDapperVideo\obj\Debug\net8.0\refint\CrudDapperVi
 D:\Projetos\CrudDapperVideo\CrudDapperVideo\obj\Debug\net8.0\CrudDapperVideo.pdb
 D:\Projetos\CrudDapperVideo\CrudDapperVideo\obj\Debug\net8.0\CrudDapperVideo.genruntimeconfig.cache
 D:\Projetos\CrudDapperVideo\CrudDapperVideo\obj\Debug\net8.0\ref\CrudDapperVideo.dll
+D:\Projetos\CrudDapperVideo\CrudDapperVideo\obj\Debug\net8.0\CrudDapperVideo.sourcelink.json
